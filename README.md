@@ -1,1 +1,1 @@
-Backup scripts for postgre and mongo running on docker containers.
+Backup scripts for postgre and mongo db running on docker containers.
