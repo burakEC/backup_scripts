@@ -5,8 +5,8 @@ timestamp() {
 }
 
 
-USER="operation"
-PASS="musd2017PP"
+USER="backupuser"
+PASS="password"
 
 #### Komut kullanimini ekrana bas ########
 usage()
